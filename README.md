@@ -1,4 +1,4 @@
-# Create Lib app
+# Create Node App
 
 ## Motivation
 
