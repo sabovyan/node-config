@@ -4,24 +4,31 @@
 
 > It will create a basic typescript project setup
 
-> 🤔 Should we initialize git ?
-> 🤔 Should we install node_modules ?
+## TODO
 
 - [ ] add GitHub template
 
 - `package.json`
 
-  - with following scripts
+- [ ] update scripts
 
-    - build
-    - start
-    - dev
-    - format
-    - lint
-    - test
-    - test:watch
+  - build
+  - start
+  - dev
+  - format
+  - lint
+  - test
+  - test:watch
 
-- with following dependencies
+## Think about it
+
+> 🤔 Should we initialize git ?
+> 🤔 Should we install node_modules ?
+
+## DONE
+
+- [x] add script
+- [x] dependencies
   - typescript
   - tsup
   - eslint
@@ -29,7 +36,3 @@
   - eslint-plugin-prettier
   - prettier
   - vitest
-
-## v1.0.0
-
-> It will prompt you for the following
